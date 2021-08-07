@@ -32,16 +32,16 @@ Mac OS Big Sur 11.5.1   +   MacTex 20210328
 
 ## 文件结构
 
-├── Makefile
-├── README.md
-├── SDFMU.sty
-├── main.pdf
-├── main.tex
-├── pic
-│    ├── logo-eps-converted-to.pdf
-│    ├── logo.eps
-│    └── logo.png
-└── ref.bib
+├── Makefile <br>
+├── README.md <br>
+├── SDFMU.sty <br>
+├── main.pdf <br>
+├── main.tex<br>
+├── pic <br>
+│    ├── logo-eps-converted-to.pdf <br>
+│    ├── logo.eps <br>
+│    └── logo.png <br>
+└── ref.bib <br>
 
 ## 相关参数 & 编译选项
 
