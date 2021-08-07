@@ -62,7 +62,7 @@ Mac OS Big Sur 11.5.1   +   MacTex 20210328
 ```bash
 make beamer					#生成文档
 make clean					#清除编译过程中产生的文件
-make claenall				#清除所有文件
+make claenall				  #清除所有文件
 ```
 
 
